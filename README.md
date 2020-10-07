@@ -1,6 +1,7 @@
 ### Hi there 👋
 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/)
+- [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/)
+- [acasarsa@gmail.com](mailto:acasarsa@gmail.com)
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
