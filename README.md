@@ -1,5 +1,5 @@
 <!--### Hi there 👋 -->
-#About Me
+### About Me
 
 Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean, maintainable code, and intuitive user experiences. 
 
@@ -7,12 +7,10 @@ Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean,
 
 I love working with Ruby on Rails, Javascript and React. 
 
-📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/)
-- [acasarsa@gmail.com](mailto:acasarsa@gmail.com)
-- [twitter](https://twitter.com/AndrewCasarsa)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/) || [Twitter](https://twitter.com/AndrewCasarsa) || [acasarsa@gmail.com](mailto:acasarsa@gmail.com)
+- ⚡ Fun fact: I spent 5 weeks traveling in Cambodia and while motobiking around the north east I met a local family and was honored to be invited to their 9th son's wedding. Never knew how delicous grilled yak could be! 
 
-What I've been coding in this week...
+**What I've been coding in this week...**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   39 mins         █████████████████████████   100.00 % 
