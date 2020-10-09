@@ -2,6 +2,8 @@
 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/)
 - [acasarsa@gmail.com](mailto:acasarsa@gmail.com)
+
+What I've been coding in this week...
 <!--START_SECTION:waka-->
 ```text
 JavaScript   39 mins         █████████████████████████   100.00 % 
