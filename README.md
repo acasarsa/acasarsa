@@ -10,7 +10,11 @@ I love working with Ruby on Rails, Javascript and React.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/) || [Twitter](https://twitter.com/AndrewCasarsa) || [acasarsa@gmail.com](mailto:acasarsa@gmail.com)
 - ⚡ Fun fact: I spent 5 weeks traveling in Cambodia and while motobiking around the north east I met a local family and was honored to be invited to their 9th son's wedding. Never knew how delicous grilled yak could be! 
 
-**What I've been coding in this week...**
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&layout=compact&langs_count=10)](https://github.com/acasarsa)
+
+### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 JavaScript   8 hrs 52 mins   ████████████████████████▒   96.85 % 
