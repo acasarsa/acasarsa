@@ -3,7 +3,7 @@
 
 Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean, maintainable code, and intuitive user experiences. 
 
-<!-- I've had a rather non-traditional journey so far. I think it stated with a fascination with consumer culture and blossomed with the dawn of the internet age (showing my age here) with user psychology. followed my passion for problem solving and people skills into law school and eventually became admitted to the NYS Bar. Ever since I read Born to Buy I've been fascinated by consumer culture  it started with Law School during the Great Recession, I passed the bar and am admitted in NYS but I couldn't find my passion in the law. I always found myself working on the company's website  // and avid board game player. I'm a career changer with a background in law and website and small business consulting. -->
+<!-- I've had a rather non-traditional journey so far. It stated with a fascination with consumer culture and blossomed with the dawn of the internet age (showing my age here) and the notion with user psychology. Followed my passion for problem solving and people skills into law school and eventually became admitted to the NYS Bar.  /// Ever since I read Born to Buy I've been fascinated by consumer culture  it started with Law School during the Great Recession, I passed the bar and am admitted in NYS but I couldn't find my passion in the law. I always found myself working on the company's website  // and avid board game player. I'm a career changer with a background in law and website and small business consulting. -->
 
 I love working with Ruby on Rails, Javascript and React. 
 
