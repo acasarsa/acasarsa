@@ -13,11 +13,11 @@ I love working with Ruby on Rails, Javascript and React.
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)
-
+<!-- 
 ### Weekly Stats
 
 <!--START_SECTION:waka-->
-<!-- 
+
 ```text
 Ruby         1 hr 12 mins    ████████████████████▒░░░░   81.36 % 
 JavaScript   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
