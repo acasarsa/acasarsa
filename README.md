@@ -26,7 +26,11 @@ Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean,
 
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=acasarsa&show_icons=true&theme=radical)  
 
-<!--### Weekly Stats-->
+<!--   --> 
+
+### Weekly Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--
