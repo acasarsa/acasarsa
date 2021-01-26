@@ -8,7 +8,7 @@ Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean,
 I love working with React, Ruby on Rails and vanilla Javascript. Currently exploring React-Native and GraphQL. I am certified as an AWS Practitioner.  
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/) || [Twitter](https://twitter.com/AndrewCasarsa) || [acasarsa@gmail.com](mailto:acasarsa@gmail.com) || [Blog](https://dev.to/acasarsa) & [Old blog](https://medium.com/@andrewjames_3104)
-- ⚡ I spent 5 weeks traveling in Cambodia and while motobiking around the north east I met a local family and was honored to be invited to their 9th son's wedding. Never knew how delicous grilled yak could be! 
+ <!-- - ⚡ I spent 5 weeks traveling in Cambodia and while motobiking around the north east I met a local family and was honored to be invited to their 9th son's wedding. Never knew how delicous grilled yak could be!  -->
 - ⚡ Boardgame Hobbyist | Home Chef | Fantasy Football Fanatic | Taco Connoisseur | World Traveler
 
 
@@ -16,7 +16,7 @@ I love working with React, Ruby on Rails and vanilla Javascript. Currently explo
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)  
   
-  <!--   -->  
+  <!--    
 
 ### Stats
 
