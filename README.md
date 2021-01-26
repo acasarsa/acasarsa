@@ -17,7 +17,7 @@ Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean,
 
 ### Weekly Stats
 
-[![Wakatime Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--   --> 
 
