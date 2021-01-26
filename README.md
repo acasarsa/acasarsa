@@ -15,22 +15,17 @@ Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean,
 - ⚡ Boardgame Hobbyist | Home Chef | Fantasy Football Fanatic | Taco Connoisseur | World Traveler
 - 😄 he/him
 
+### Weekly Stats
 
-### Languages
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)  
-  
-  <!--   --> 
+<!--   --> 
 
 ### Stats
 
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=acasarsa&show_icons=true&theme=radical)  
 
 <!--   --> 
-
-### Weekly Stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--
@@ -43,7 +38,11 @@ Ruby         11 mins         ██████▒░░░░░░░░░░
 <!--
 **acasarsa/acasarsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Languages
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)  
+  
+  <!--   --> 
 
 
 Here are some ideas to get you started:
