@@ -17,13 +17,13 @@ Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean,
 
 ### Weekly Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--   --> 
 
 ### Stats
 
-![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=acasarsa&show_icons=true&theme=radical)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=acasarsa&show_icons=true&theme=radical)  
 
 <!--   --> 
 
