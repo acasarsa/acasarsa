@@ -27,6 +27,12 @@ Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean,
 
 <!--   --> 
 
+### Languages
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)  
+  
+  <!--   --> 
+
 <!--START_SECTION:waka-->
 <!--
 ```text
@@ -38,15 +44,11 @@ Ruby         11 mins         ██████▒░░░░░░░░░░
 <!--
 **acasarsa/acasarsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Languages
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)  
-  
-  <!--   --> 
 
 
+<!--
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -54,5 +56,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
