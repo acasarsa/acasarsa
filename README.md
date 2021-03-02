@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 ### About Me
 
-Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean, maintainable code, and intuitive user experiences. I love working with React, Ruby, Rails and vanilla Javascript. Exploring React-Native and GraphQL. I am certified as an AWS Practitioner.  
+Hi there 👋 I'm Andrew, a software engineer with a passion for creating clean, maintainable code, and intuitive user experiences. I love working with React, Ruby, Rails and vanilla Javascript. Exploring React-Native and GraphQL. I am certified as an AWS Cloud Practitioner.  
 
 
 - 🔭 Interning as a Full Stack Software Engineer at [Errunds](https://errundsonline.com/)
