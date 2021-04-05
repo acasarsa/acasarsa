@@ -14,12 +14,12 @@ Hi there 👋 I'm Andrew, a low ego software engineer with a passion for creatin
 - 🌱 Node.js
 - ⚡ Boardgame Hobbyist | Home Chef | Fantasy Football Fanatic | Taco Connoisseur | World Traveler
 - 😄 he/him
-
+<!--
 ### Weekly Stats
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--   --> 
+   --> 
 
 ### Stats
 
