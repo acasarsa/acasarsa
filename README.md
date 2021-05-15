@@ -1,5 +1,5 @@
 <!--### Hi there 👋 -->
-### About Me
+## About Me
 
 Hi there 👋 I'm Andrew, a low ego software engineer with a passion for creating clean, maintainable code, and intuitive user experiences. I love working with React, Ruby, Rails and vanilla Javascript. Exploring React-Native and GraphQL. I am certified as an AWS Cloud Practitioner.  
 
@@ -14,24 +14,26 @@ Hi there 👋 I'm Andrew, a low ego software engineer with a passion for creatin
 - 🌱 Node.js
 - ⚡ Boardgame Hobbyist | Home Chef | Fantasy Football Fanatic | Taco Connoisseur | World Traveler
 - 😄 he/him
-<!--
-### Weekly Stats
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acasarsa)](https://github.com/anuraghazra/github-readme-stats)
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=acasarsa&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&count_private=true&hide=css" />
+</a>
 
-   --> 
 
+
+
+<!-- 
 ### Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=acasarsa&show_icons=true&theme=radical)  
-
-<!--   --> 
-
+<!--
 ### Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)  
-  
-  <!--   --> 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&hide=css&layout=compact&langs_count=10)](https://github.com/acasarsa)  --> 
 
 <!--START_SECTION:waka-->
 <!--
