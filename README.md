@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 ## About Me
 
-Hi there 👋 I'm Andrew, a low ego software engineer with a passion for creating clean, maintainable code, and intuitive user experiences. I love working with React, Ruby, Rails and vanilla Javascript. Exploring React-Native and GraphQL. I am certified as an AWS Cloud Practitioner.  
+Hi there 👋 I'm Andrew, a low ego full-stack software engineer with a passion for creating clean, maintainable code, and intuitive user experiences. I love working with Ruby on Rails, React and vanilla Javascript. I have extensive backend experience with rails. I am certified as an AWS Cloud Practitioner.  
 
 
 - 🔭 Software Engineer at [Arist](https://arist.co/)
