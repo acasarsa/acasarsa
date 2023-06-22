@@ -14,7 +14,7 @@ Hi there 👋 I'm Andrew, a full-stack software engineer who's always a team pla
 - 🌱 Node.js
 - ⚡ Boardgame Hobbyist | Home Chef | Fantasy Football Fanatic | Taco Connoisseur | World Traveler
 - 😄 he/him
-
+ <!-- -
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=acasarsa&count_private=true&show_icons=true&theme=radical" />
@@ -22,7 +22,7 @@ Hi there 👋 I'm Andrew, a full-stack software engineer who's always a team pla
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acasarsa&count_private=true&hide=css" />
 </a>
-
+-->
 
 
 
