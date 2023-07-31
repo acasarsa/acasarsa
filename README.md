@@ -1,10 +1,8 @@
 <!--### Hi there 👋 -->
 ## About Me
 
-Hi there 👋 I'm Andrew, a full-stack software engineer who's always a team player and has a passion for creating clean, maintainable code, and intuitive user experiences. I love working with Ruby on Rails, React and vanilla Javascript. I have extensive backend experience with rails. I am certified as an AWS Cloud Practitioner.  
+Hi there 👋 I'm Andrew, a full-stack software engineer who's always a team player and has a passion for creating clean, maintainable code, and intuitive user experiences. I love working with Ruby on Rails, React and vanilla Javascript. 
 
-
-- 🔭 Current position: Software Engineer at [RocketReferrals](https://rocketreferrals.com/)
 
 <!-- I've had a rather non-traditional journey so far. It stated with a fascination with consumer culture and blossomed with the dawn of the internet age (showing my age here) and the notion with user psychology. Followed my passion for problem solving and people skills into law school and eventually became admitted to the NYS Bar.  /// Ever since I read Born to Buy I've been fascinated by consumer culture  it started with Law School during the Great Recession, I passed the bar and am admitted in NYS but I couldn't find my passion in the law. I always found myself working on the company's website  // and avid board game player. I'm a career changer with a background in law and website and small business consulting. -->
 
