@@ -10,7 +10,6 @@ Check out our 2023 Rails Hackathon [entry](https://be-ai-assist.dev/). We create
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/) || [Twitter](https://twitter.com/AndrewCasarsa) || [acasarsa@gmail.com](mailto:acasarsa@gmail.com) || [Blog](https://dev.to/acasarsa) & [Old blog](https://medium.com/@andrewjames_3104)
  <!-- - ⚡ I spent 5 weeks traveling in Cambodia and while motobiking around the north east I met a local family and was honored to be invited to their 9th son's wedding. Never knew how delicous grilled yak could be!  -->
-- 🌱 Node.js
 - ⚡ Boardgame Hobbyist | Home Chef | Fantasy Football Fanatic | Taco Connoisseur | World Traveler
 - 😄 he/him
  <!-- -
