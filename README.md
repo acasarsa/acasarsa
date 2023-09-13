@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 ## About Me
 
-Hi there 👋 I'm Andrew, a full-stack software engineer who's always a team player and has a passion for creating clean, maintainable code, and intuitive user experiences. I love working with Ruby on Rails, React and vanilla Javascript. 
+Hi there 👋 I'm Andrew, a full-stack software engineer who's always a team player and has a passion for creating clean, maintainable code, and intuitive user experiences. I love working with Ruby on Rails, React, Typescript and GraphQL. 
 
 Check out our 2023 Rails Hackathon [entry](https://be-ai-assist.dev/). We created a fork of the better_errors gem and added an AI assistant to it that analyzes the error data and gives a concise issue and possible solution or suggestions. 
 
