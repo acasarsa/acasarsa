@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 ## About Me
 
-Hi there 👋 I'm Andrew, a full-stack software engineer who's always a team player and has a passion for creating clean, maintainable code, and intuitive user experiences. I love working with Ruby on Rails, React, Typescript and GraphQL. 
+Hi there 👋 I'm Andrew, a full stack software engineer who loves working with a team and has a passion for creating clean, maintainable code, and intuitive user experiences. I love working with Ruby on Rails, React, Typescript, and GraphQL.
 
 Check out our 2023 Rails Hackathon [entry](https://be-ai-assist.dev/). We created a fork of the better_errors gem and added an AI assistant to it that analyzes the error data and gives a concise issue and possible solution or suggestions. 
 
@@ -9,7 +9,7 @@ Check out our 2023 Rails Hackathon [entry](https://be-ai-assist.dev/). We create
 
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/andrew-casarsa-67325a9/) || [Twitter](https://twitter.com/AndrewCasarsa) || [acasarsa@gmail.com](mailto:acasarsa@gmail.com) || [Blog](https://dev.to/acasarsa) & [Old blog](https://medium.com/@andrewjames_3104)
- <!-- - ⚡ I spent 5 weeks traveling in Cambodia and while motobiking around the north east I met a local family and was honored to be invited to their 9th son's wedding. Never knew how delicous grilled yak could be!  -->
+-  ⚡ I spent 5 weeks traveling in Cambodia and while motobiking around the north east I met a local family and was honored to be invited to their 9th son's wedding. Never knew how delicous grilled yak could be! 
 - ⚡ Boardgame Hobbyist | Home Chef | Fantasy Football Fanatic | Taco Connoisseur | World Traveler
 - 😄 he/him
  <!-- -
@@ -22,6 +22,7 @@ Check out our 2023 Rails Hackathon [entry](https://be-ai-assist.dev/). We create
 </a>
 -->
 
+If you don't see as much activity as usual that's because I'm focusing on expanding my knowledge of computer science concepts and algorithms. I'm also keeping my React knowledge fresh by redoing [Kent C. Dodds Epic React course](https://epicreact.dev/learn). As a break from studying I've been playing around with Python which I was exposed to during our Rails Hackawthon project and have wanted to learn more about. I'm also hoping to find time to do a C/C++ project so I can program something to work with some hardware. As you can see I'm obsessed with broadening my horizons and enjoy dabbling in and learning new languages. My experience and passion is still focused on Rails and React but I've found I understand the choices their creators and maintainers made better after learning and comparing experience with other ones. 
 
 
 <!-- 
