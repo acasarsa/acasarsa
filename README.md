@@ -22,7 +22,7 @@ Check out our 2023 Rails Hackathon [entry](https://be-ai-assist.dev/). We create
 </a>
 -->
 
-If you don't see as much activity as usual that's because I'm focusing on expanding my knowledge of computer science concepts and algorithms. I'm also keeping my React knowledge fresh by redoing [Kent C. Dodds Epic React course](https://epicreact.dev/learn). As a break from studying I've been playing around with Python which I was exposed to during our Rails Hackawthon project and have wanted to learn more about. I'm also hoping to find time to do a C/C++ project so I can program something to work with some hardware. As you can see I'm obsessed with broadening my horizons and enjoy dabbling in and learning new languages. My experience and passion is still focused on Rails and React but I've found I understand the choices their creators and maintainers made better after learning and comparing experience with other ones. 
+If you don't see as much activity as usual that's because I'm focusing on expanding my knowledge of computer science concepts and algorithms. I'm also keeping my React knowledge fresh by redoing [Kent C. Dodds Epic React course](https://epicreact.dev/learn). As a break from studying I've been playing around with Python which I was exposed to during our Rails Hackathon project and have wanted to learn more about. As you can see I'm obsessed with broadening my horizons and enjoy dabbling in and learning new languages. My experience and passion is still focused on Rails and React but I've found I understand the choices their creators and maintainers made better after learning and comparing experience with other ones. 
 
 
 <!-- 
